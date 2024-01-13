@@ -25,6 +25,6 @@ The styling of the calculator is done using the provided `style.css` file. The s
 The calculator functionality is implemented using JavaScript in the `app.js` file. The script handles button clicks, clears the input, performs calculations, and appends values to the input field.
 
 ## View the Calculator
-To experience the calculator, [click here](https://ashwin-bn.github.io/Basic-Calculator/).
+To experience the calculator, [click here](https://ashwin-bn.github.io/Basic-Calculator/) (opens in a new tab).
 
 Feel free to customize and enhance the calculator based on your preferences or project requirements. If you have any suggestions or issues, please open an [issue](link_to_issues) on GitHub. Contributions are welcome!
